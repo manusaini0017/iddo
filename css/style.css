@@ -253,7 +253,7 @@ color: inherit;}
  .member small{font-size: 14px; font-weight: 100; color: #898989; }
  .member p{font-weight: 100; font-size: 14px; margin-top: 20px; line-height: 1.57; }
 
- .wrap-8{padding: 85px 0 0 0; background-color:#e6e6e6 ; color: #fff;}
+ .wrap-8{padding: 85px 0 0 0; background-color:#666 ; color: #fff;}
 
  .wrap-8 span{font-size: 72px; color: inherit;}
  .wrap-8 p{font: 100 72px var(--ff);  color: inherit; margin-top: 40px;}
@@ -261,7 +261,7 @@ color: inherit;}
 
  .wrap-9{background-color:white; padding: 100px 0 140px 0; color: #363636;}
 
- canvas{background: #ddd; max-width: 100%; height: auto; margin-top: 50px;}
+ canvas{ max-width: 100%; height: auto; margin-top: 50px;}
 
  .accordion{ margin-top: 80px;}
  
