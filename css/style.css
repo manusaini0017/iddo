@@ -402,7 +402,11 @@ h2{font-size: 60px;}
 
     .col-p-6{flex-basis: 50%; max-width: 50%;}
 
-    .wrap-10 input{ width: 240px; font-size: 24px;}
+    .wrap-10 input{ width: 221px; font-size: 22px;}
     .col-p-auto{flex-basis: 50%; max-width: 100%;}
+    .wrap-8 p{font-size: 54px;}
+    .popup input{float: none;}
+    .popup label{margin: 1rem 0;}
+    .popup{width: 333px;}
     
 }
