@@ -380,7 +380,7 @@ h2{font-size: 60px;}
   .col-m-auto{flex-basis: 33.33%; max-width: 50%;}
 
   .wrap-1 .collapse .flex{flex-flow: column;}
-.collapse{position: absolute; top: 80px; left: 0; right: 0; background-color: #000; padding: 1rem;}
+.collapse{position: absolute; top: 59px; left: 0; right: 0; background-color: #000; padding: 1rem;}
 .collapse nav{ width: 100%; text-align: right; }
 .wrap-1 nav a{line-height: 40px;}
 
